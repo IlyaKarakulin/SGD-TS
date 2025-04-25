@@ -6,4 +6,4 @@ Stochastic Gradient Descent and Thompson Sampling](https://arxiv.org/pdf/2006.04
 
 The algorithm was trained on the [Mushrooms dataset](https://archive.ics.uci.edu/dataset/73/mushroom)
 
-![Regret](./regert.png)
+![Regret](./img/regert.png)
